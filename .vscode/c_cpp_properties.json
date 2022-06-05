@@ -1,0 +1,22 @@
+{
+  "configurations": [
+    {
+      "name": "Linux",
+      "includePath": [
+        "${workspaceFolder}/**",
+
+        "/opt/ros/melodic/include",
+        "/opt/ros/noetic/include",
+
+        "/usr/include/gstreamer-1.0",
+        "/usr/include/glib-2.0"
+      ],
+      "defines": [],
+      "compilerPath": "/usr/bin/cpp",
+      "cStandard": "gnu17",
+      "cppStandard": "gnu++14",
+      "intelliSenseMode": "linux-gcc-x64"
+    }
+  ],
+  "version": 4
+}
